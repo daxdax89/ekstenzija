@@ -1,1 +1,5 @@
-test
+{
+  "background":{
+    "page": "background.html"
+  }
+}
